@@ -1,7 +1,7 @@
 {
   "hasEKG": 12789,
   "hasPrometheus": [
-    "127.0.0.1",
+    "172.16.0.1",
     12798
   ],
   "minSeverity": "Info"
